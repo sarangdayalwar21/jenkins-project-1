@@ -1,1 +1,1 @@
-zlip lmpd bnxi zjvw
+print("zlip lmpd bnxi zjvw")
