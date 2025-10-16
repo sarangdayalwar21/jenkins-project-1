@@ -1,2 +1,2 @@
-print("tkwh zzic emtn mtbz")
-uxxt psub zylk atvj
+print("uxxt psub zylk atvj")
+
