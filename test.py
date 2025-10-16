@@ -1,2 +1,2 @@
-print("uxxt psub zylk atvj"
+print("uxxt psub zylk atvj")
 
